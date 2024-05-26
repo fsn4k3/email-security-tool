@@ -1,6 +1,9 @@
 
 # Email Security Tool
 
+![Email Security Tool](https://github.com/fsn4k3/email-security-tool/assets/70797855/3e1d399b-9a3c-458a-9e4d-c256fdcdb8e9)
+
+
 ## Project Overview
 
 The Email Security Tool is designed to analyze email headers and body content for phishing attempts, malicious links, and other potential security threats. The tool is implemented in Python and utilizes the VirusTotal API to check the safety of URLs found in the email content.
