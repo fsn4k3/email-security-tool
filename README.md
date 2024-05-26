@@ -84,11 +84,6 @@ The Email Security Tool is designed to analyze email headers and body content fo
 - The VirusTotal API has usage limitations, and the free tier may not support high-frequency queries.
 - This tool provides basic phishing detection and URL safety checks. More advanced threat detection mechanisms can be integrated for improved accuracy.
 
-## Future Enhancements
-
-- Integrate additional reputation services for more robust URL safety checks.
-- Implement machine learning models to detect phishing emails based on content analysis.
-- Add support for analyzing attachments for malware.
 
 ## Conclusion
 
