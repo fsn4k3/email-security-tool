@@ -27,7 +27,7 @@ The Email Security Tool is designed to analyze email headers and body content fo
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/email-security-tool.git
+   git clone https://github.com/fsn4k3/email-security-tool.git
    cd email-security-tool
    ```
 
