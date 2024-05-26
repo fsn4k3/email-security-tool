@@ -93,4 +93,4 @@ The Email Security Tool provides a basic yet effective way to analyze emails for
 
 ## Note
 
-Replace 'your_virustotal_api_key' with your actual VirusTotal API key and 'path_to_your_email_file.eml' with the path to your email file. This script provides a foundational tool for email security analysis that can be further enhanced with more advanced techniques and integrations.
+Replace 'your_virustotal_api_key' with your actual VirusTotal API key and 'path_to_your_email_file.eml' with the path to your email file. 
